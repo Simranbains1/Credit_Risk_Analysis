@@ -10,49 +10,49 @@ This challenge aims to employ different techniques to train and evaluate models 
 
 ### Naive Random Oversampling
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.66127...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .66/.67
 
 ![Screen Shot 2022-11-12 at 10.10.16 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.10.16%20PM.png)
 
 ### SMOTE Oversampling
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.63032...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .62/.64
 
 ![Screen Shot 2022-11-12 at 10.10.32 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.10.32%20PM.png)
 
 ### Undersampling
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.63032...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .63/.40
 
 ![Screen Shot 2022-11-12 at 10.11.05 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.11.05%20PM.png)
 
 ### Combination Sampling 
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.51737...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .70/.57
 
 ![Screen Shot 2022-11-12 at 10.11.13 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.11.13%20PM.png)
 
 ### BRFC
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.78776...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .67/.91
 
 ![Screen Shot 2022-11-12 at 10.11.57 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.11.57%20PM.png)
 
-### East Ensemble AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 
-- Balanced Accuracy Score: 
-- Precision Score: 
-- Recall Score: 
+- Balanced Accuracy Score: 0.92542...
+- Precision Score: low for high-risk loans and high for low-risk loans
+- Recall Score: high/low risk = .91/.94
 
 ![Screen Shot 2022-11-12 at 10.12.06 PM.png](https://github.com/Simranbains1/Credit_Risk_Analysis/blob/main/Images/Screen%20Shot%202022-11-12%20at%2010.12.06%20PM.png)
 
